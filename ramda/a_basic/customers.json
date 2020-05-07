@@ -1,0 +1,29 @@
+[
+    {
+      "customerId": "40dfa2b2-f445-406d-ba13-a959a8972040",
+      "balance": "$1,419.22",
+      "age": 30,
+      "name": "Stafford Pate",
+      "gender": "male",
+      "company": "MEDIOT",
+      "email": "staffordpate@mediot.com"
+    },
+    {
+      "customerId": "54a40674-ab8b-4997-84a2-d92af5fddb0d",
+      "balance": "$1,838.53",
+      "age": 23,
+      "name": "Bauer Sanchez",
+      "gender": "male",
+      "company": "REMOLD",
+      "email": "bauersanchez@remold.com"
+    },
+    {
+      "customerId": "34e1c104-6829-4f48-b1e3-21354fffefc4",
+      "balance": "$2,728.25",
+      "age": 34,
+      "name": "Nicholson King",
+      "gender": "male",
+      "company": "KAGE",
+      "email": "nicholsonking@kage.com"
+    }
+]
